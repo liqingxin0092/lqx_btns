@@ -1,8 +1,8 @@
 # lqx_btns
 
-A set of code for implementing multi-event key detection...
+一组代码用来检测按键事件.
 
-## feature
+## 特征
 
 几乎囊括全部按键的可检测点.
 
